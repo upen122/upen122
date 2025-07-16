@@ -48,8 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=upen122&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upen122&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">=
+  <img src="https://img.shields.io/badge/Most_Used-SQL-blue?style=for-the-badge&logo=datagrip&logoColor=white"/>
+</p>
+
 </p>
 
 

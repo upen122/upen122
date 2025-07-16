@@ -8,7 +8,7 @@
 ---
 
 - 🧑‍💻 I’m currently working on **Data Engineering Projects**
-- 💼 LinkedIn: [Upen Singh](https://www.linkedin.com/in/your-profile/)
+- 💼 LinkedIn: [Upen Singh]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/upen-singh-546999341/))
 - 📫 Email: `Upensingh122@gmail.com`
 
 ---

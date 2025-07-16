@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Upen Singh</h1>
 
 <p align="center">
-  I’m a passionate Data Engineer skilled in Azure Data Factory, Databricks, Delta Lake, and more. I love building scalable data pipelines and sharing my knowledge with the community.
+  I’m a passionate Data Engineer skilled in Azure Data Factory, SQL , DataBricks , Python , PySpark . I love building scalable data pipelines and sharing my knowledge with the community.
 </p>
 
 ---
